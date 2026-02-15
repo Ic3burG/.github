@@ -35,13 +35,14 @@ can be merged.
 | Project                                                   | Description                                        | License           |
 | --------------------------------------------------------- | -------------------------------------------------- | ----------------- |
 | [OrgTree](https://github.com/Ic3burG/OrgTree)             | Organizational Directory & Hierarchy Visualization | AGPL-3.0-or-later |
-| [ReceiptSorter](https://github.com/Ic3burG/ReceiptSorter) | Intelligent Receipt Processing & Organization      | AGPL-3.0-or-later |
+| [ReceiptSorter](https://github.com/Ic3burG/ReceiptSorter) | Intelligent Receipt Processing & Organization      | MIT               |
 
 ## Commercial Licensing
 
-All projects are available under the GNU Affero General Public License v3
-for open-source use. If your organization requires a commercial license
-(e.g., to use the software without AGPL obligations), please contact:
+Some projects (e.g., OrgTree) are available under the GNU Affero General
+Public License v3. If your organization requires a commercial license for
+an AGPL-licensed project (e.g., to use the software without AGPL
+obligations), please contact:
 
 📧 **[INSERT CONTACT EMAIL]**
 
