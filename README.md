@@ -44,7 +44,7 @@ Public License v3. If your organization requires a commercial license for
 an AGPL-licensed project (e.g., to use the software without AGPL
 obligations), please contact:
 
-📧 **[INSERT CONTACT EMAIL]**
+📧 **[admin@ojd-av.com](mailto:admin@ojd-av.com)**
 
 ---
 
